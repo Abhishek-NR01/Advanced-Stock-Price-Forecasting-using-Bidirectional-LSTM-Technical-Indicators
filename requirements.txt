@@ -4,6 +4,7 @@ pandas
 numpy
 matplotlib
 scikit-learn
-tensorflow
+tensorflow==2.15.0
 joblib
 protobuf==3.20.3
+plotly
